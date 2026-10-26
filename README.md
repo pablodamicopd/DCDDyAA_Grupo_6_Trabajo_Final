@@ -21,6 +21,15 @@ Desarrollo de un modelo de clasificación supervisada para predecir en tiempo re
 ## 📁 Contenido del Repositorio
 * `notebook_final.ipynb`: Código fuente completo con análisis exploratorio, modelado, calibración de umbrales y gráficos.
 * `Informe_Final_Grupo_6.pdf`: Informe ejecutivo del trabajo integrador.
+* `online_shoppers_intention.csv`: Dataset original descargado del repositorio de UCI Machine Learning.
 
 ## 🔗 Fuente de Datos
 * [UCI Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
+
+## 🚀 Instrucciones de Ejecución
+
+Para reproducir el análisis y ejecutar el código correctamente, seguir estos pasos:
+
+1. **Clonar o descargar el repositorio:**
+   ```bash
+   git clone [https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final.git](https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final.git)
