@@ -49,14 +49,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy xgboost jupyter
 
 # Iniciar la notebook
 jupyter notebook DCDDyAA_Grupo_6_Trabajo_Final.ipynb
+```
+*Tiempo aproximado de ejecución completa: 1 a 2 minutos en un equipo estándar. Las partes más costosas computacionalmente son el entrenamiento de los ensambles (Random Forest / XGBoost) y las pruebas de chi-cuadrado.*
 
 ---
-Tiempo aproximado de ejecución completa: 1 a 2 minutos en un equipo estándar. Las partes más costosas computacionalmente son el entrenamiento de los ensambles (Random Forest / XGBoost) y las pruebas de chi-cuadrado.
 
-🔗 Fuente de Datos
-UCI Online Shoppers Purchasing Intention Dataset
-
-
-<ElicitationsGroup>
-  <FollowUp>Con este README el proyecto ya queda con un estándar de entrega impecable. ¿Pudiste subir los archivos finales y actualizar esto en GitHub sin problemas?</FollowUp>
-</ElicitationsGroup>
+## 🔗 Fuente de Datos
+* [UCI Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
