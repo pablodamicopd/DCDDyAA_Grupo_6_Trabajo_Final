@@ -16,7 +16,7 @@ Desarrollo de un modelo de clasificación supervisada para predecir en tiempo re
 * **Mitigación de Data Leakage:** Se excluyó la variable `PageValues` por riesgo severo de incorporar información post-conversión, garantizando la viabilidad en producción.
 * **Modelo Final:** Regresión Logística con umbral de decisión calibrado en **0,5055** sobre un set de validación independiente.
 * **Desempeño en Test:** Recall: 72,77% | Precision: 25,30% | F1-Score: 37,54%.
-* **Impacto Comercial:** Al intervenir sobre el **Top 20%** de las sesiones con mayor probabilidad, se captura al **42,1% de los compradores reales** (Lift de 2,11x frente al azar).
+* **Impacto Comercial:** Al intervenir sobre el **Top 20%** de las sesiones con mayor probabilidad, se captura al **44,0% de los compradores reales** (Lift de 2,20x frente al azar).
 
 ## 📁 Contenido del Repositorio
 * `notebook_final.ipynb`: Código fuente completo con análisis exploratorio, modelado, calibración de umbrales y gráficos.
