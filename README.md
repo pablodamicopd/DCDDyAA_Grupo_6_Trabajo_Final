@@ -37,7 +37,7 @@ Desarrollo de un modelo de clasificaci√≥n supervisada para predecir si una sesi√
 ### Entorno Local
 Clonar el repositorio y configurar el entorno virtual:
 ```bash
-git clone [https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final.git](https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final.git)
+git clone https://github.com/pablodamicopd/DCDDyAA_Grupo_6_Trabajo_Final.git
 cd DCDDyAA_Grupo_6_Trabajo_Final
 
 python -m venv .venv
